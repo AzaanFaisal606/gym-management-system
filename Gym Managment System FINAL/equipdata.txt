@@ -1,0 +1,10 @@
+12 Bar 700 MuscleWorld
+13 Dubmell 9000 Iso
+14 Cable 4000 Iso
+15 Rack 2000 Delta
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 
+0  0 
+0  0 
